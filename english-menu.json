@@ -1,65 +1,60 @@
 [
     {
-        "curseName": "GETTING START",
-        "profesora": "$30",        
-        "imageUrl": "https://www.conmishijos.com/uploads/tareas_escolares/fichasmates6anos.jpg",
-        "siteDesignId": "Creation of personalized learning plan. Say hello and goodbye. Introduce yourself and others. Most common personal questions and answers. Some common expressions",
-        "numClasses": "5 classes"
-
+        "curseName": "1. GETTING START",
+        "price": "$35",
+        "teacher": "Creation of personalized learning plan. Say hello and goodbye. Introduce yourself and introduce others. Most common personal questions and answers. Simple commands. Some common expressions.",        
+        "imageUrl": "https://cdn.glitch.global/0d43dfbf-8ee6-4b00-baa1-8adb0ff7c3c8/greetings.jpg?v=1681324719598",
+        "classInfo": "(6 classes - 50 min )"        
     },  
     {
-        "curseName": "ARTES VISUALES",
-        "profesora": "Profesora: Iris Ayala",        
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDdFj1bCnQexwkXvIl4GbSb4JL9DZM_YTMYix-UFhG2AeVH-9jTajRvaidq8NReq4d-U&usqp=CAU.jpg",
-        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/art.html"
-        
+        "curseName": "3. MY HOME  ",
+        "price": "$35",
+        "teacher": "Members of the family. Parts of the house. Description of people. Household trades. Pets.",        
+        "imageUrl": "https://cdn.glitch.global/0d43dfbf-8ee6-4b00-baa1-8adb0ff7c3c8/family.jpg?v=1681326834282",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/art.html",
+        "classInfo": "(6 classes - 50 min )"
     },
     {
-        "curseName": "MÚSICA",
-        "profesora": "Profesora: Iris Ayala",        
-        "imageUrl": "https://i.pinimg.com/originals/35/76/40/3576401281746dccab8fadd11da94dfe.jpg",
-        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/music.html"
+        "curseName": "2. THE ABC, COLORS, AND NUMBERS",
+        "price": "$20",
+        "teacher": "The Vowels. The ABC. Colors. Spelling simple words. Numbers from 1 to 20.",        
+        "imageUrl": "https://cdn.glitch.global/0d43dfbf-8ee6-4b00-baa1-8adb0ff7c3c8/ABC.jpg?v=1681329053892",
+        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/music.html",
+        "classInfo": "(3 classes - 50 min )"
     },
     {
-        "curseName": "ORIENTACION",
-        "profesora": "Profesora: Iris Ayala",        
+        "curseName": "ORIENTACIÓN",
+        "price": "$35",
+        "teacher": "Profesora: Iris Ayala",        
         "imageUrl": "https://eu01.edcwb.com/educanews/interface/images/noticies/19068-a932ee2e9d074c45907d1cae47bea6f1.jpg",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/orientation.html"
     },
     {
-        "curseName": "TECNOLOGIA",
-        "profesora": "Profesora: Iris Ayala",       
+        "curseName": "TECNOLOGÍA",
+        "price": "$35",
+        "teacher": "Profesora: Iris Ayala",       
         "imageUrl": "https://i.pinimg.com/originals/4c/64/d0/4c64d042de2f2088d25fc0f684b625f9.png",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/tech.html"
     },
     {
         "curseName": "LENGUAJE",
-        "profesor": "Profesora: Laura Astorga",        
+        "price": "$35",
+        "teacher": "Profesora: Laura Astorga",        
         "imageUrl": "https://actividadesinfantil.com/wp-content/uploads/2012/09/ni%C3%B1os-leyendo-1.jpg",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/lenguage.html"
     },
     {
         "curseName": "HISTORIA",
-        "profesor": "Profesora: Ana Alarcón",       
+        "price": "$35",
+        "teacher": "Profesora: Ana Alarcón",       
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Los_Fundadores_de_Chile.jpg",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/history.html"
     },
     {
         "curseName": "CIENCIAS NATURALES",
-        "profesor": "Profesora: Enyuvic Urdaneta",        
+        "price": "$35",
+        "teacher": "Profesora: Enyuvic Urdaneta",        
         "imageUrl": "https://sites.google.com/site/cienciasnaturaleschar/_/rsrc/1498696108691/home/ciencias-naturales.png",
         "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/science.html"
-    },
-    {
-        "curseName": "EDUCACIÓN FÍSICA",
-        "profesor": "Profesora: Bárbara Villarroel",        
-        "imageUrl": "https://media.istockphoto.com/photos/profesor-de-deportes-y-grupo-de-niños-ejercicio-durante-la-actividad-física-imagen-id1331594995?k=20&m=1331594995&s=612x612&w=0&h =kxOmoZwrgi9NOvFmMSEE_LiO6e8Z8JwFTETmM3zkvZg=",
-        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/sports.html"       
-    },
-    {
-        "curseName": "RELIGIÓN",
-        "profesor": "Profesora: Patricia González",        
-        "imageUrl": "https://cdn.goconqr.com/uploads/node/image/67628896/27178dbc-106f-4065-833e-e5a3b8ead6fd.jpg",
-        "siteDesignId": "https://iriskarina120.github.io/2nd-grade-curses/religion.html"
-    }    
+    }
 ]
