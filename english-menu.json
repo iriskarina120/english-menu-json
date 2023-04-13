@@ -1,13 +1,13 @@
 [
     {
-        "curseName": "1. GETTING START",
+        "curseName": "1. Getting start",
         "price": "$35",
         "teacher": "Creation of personalized learning plan. Say hello and goodbye. Introduce yourself and introduce others. Most common personal questions and answers. Simple commands. Some common expressions.",        
         "imageUrl": "https://cdn.glitch.global/0d43dfbf-8ee6-4b00-baa1-8adb0ff7c3c8/greetings.jpg?v=1681324719598",
         "classInfo": "(6 classes - 50 min )"        
     },  
     {
-        "curseName": "3. MY HOME  ",
+        "curseName": "3. My home  ",
         "price": "$35",
         "teacher": "Members of the family. Parts of the house. Description of people. Household trades. Pets.",        
         "imageUrl": "https://cdn.glitch.global/0d43dfbf-8ee6-4b00-baa1-8adb0ff7c3c8/family.jpg?v=1681326834282",
@@ -15,7 +15,7 @@
         "classInfo": "(6 classes - 50 min )"
     },
     {
-        "curseName": "2. THE ABC, COLORS...",
+        "curseName": "2. The ABC, colors...",
         "price": "$20",
         "teacher": "The Vowels. The ABC. Colors. Spelling simple words. Numbers from 1 to 20.",        
         "imageUrl": "https://cdn.glitch.global/0d43dfbf-8ee6-4b00-baa1-8adb0ff7c3c8/ABC.jpg?v=1681329053892",
